@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(82, 92, 75);
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(204, 178, 145);
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    width: 40%;
+    margin: 20px auto;
+}
+
+#number1, #number2 {
+    padding: 20px;
+    width: 50%;
+    margin-bottom: 20px;
+
+}
+
+#addButton {
+    padding: 10px 15px;
+    background-color: rgb(40, 44, 4);
+    color: rgb(230, 216, 198);
+    border: none;
+    cursor: pointer;
+    width: 25%;
+    border-radius: 10px;
+
+}
+
+#resultText {
+    margin-top: 20px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
